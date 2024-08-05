@@ -1,0 +1,6 @@
+Unable to create process using 'C:\Users\Saul Augusto\AppData\Local\Programs\Python\Python39\python.exe -Im ensurepip --upgrade --default-pip'
+
+Traceback:
+
+  File "<stdin>", line 923, in main
+  File "<stdin>", line 562, in run
